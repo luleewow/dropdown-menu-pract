@@ -33,6 +33,9 @@ nav ul li {
   list-style: none;
   position: relative;
 }
+nav ul li:hover {
+  background-color: #f3f3f3;
+}
 
 nav ul li a {
   display: block;
